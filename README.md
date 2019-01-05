@@ -1,1 +1,1 @@
-# simple-javaFX-apps
+## Three very simple applications created using JavaFX
