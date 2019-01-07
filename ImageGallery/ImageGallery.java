@@ -106,9 +106,4 @@ public class ImageGallery extends Application {
         }
         return imageView;
     }
-
-    public static void main(String[] args) {
-        launch(args);
-    }
-
 }
